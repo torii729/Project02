@@ -1,1 +1,1 @@
-# Project02
+# PYTHON 영화 예매 프로그램
